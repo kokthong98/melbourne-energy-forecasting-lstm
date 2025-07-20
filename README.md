@@ -8,7 +8,7 @@ This project uses time series modeling and stacked LSTM (Long Short-Term Memory)
 
 - **Objective:** Predict household electricity usage in Melbourne using historical usage and weather data.
 - **Techniques:** Data preprocessing, feature engineering, time series modeling, LSTM neural networks.
-- **Tools:** Python, Pandas, scikit-learn, TensorFlow/Keras, Matplotlib/Seaborn, Jupyter Notebook.
+- **Tools:** Python, Pandas, scikit-learn, TensorFlow/Keras, Matplotlib/Seaborn, Google Collab.
 
 ---
 
