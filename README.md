@@ -59,3 +59,18 @@ This project uses time series modeling and stacked LSTM (Long Short-Term Memory)
 
 ## 📁 File Structure
 
+---
+
+## 📝 Disclaimer
+
+This project is for learning and portfolio purposes. Results are not production-grade but demonstrate the full data science process—from data cleaning through advanced modeling and honest evaluation.
+
+---
+
+## 🔗 Contact
+
+Feel free to connect or ask questions!  
+[LinkedIn](https://www.linkedin.com/in/kok-thong-ong-71ab59221/) | kokthong98@gmail.com
+
+
+
